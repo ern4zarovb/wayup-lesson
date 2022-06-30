@@ -1,0 +1,29 @@
+.header1 {
+    color: red;
+}
+.text {
+    background: blue;
+    color: white;
+    width: 100px;
+    height: 75px;
+    margin-bottom: 100px;
+}
+.first-code {
+    color: red;
+}
+.header2 {
+    background: green;
+    color: white;
+}
+.header3 {
+    background: green;
+    color: white;
+    padding: 50px;
+}
+.text-form {
+    padding-left: 100px;
+}
+li {
+    font-size: 25px;
+    border: 1px solid black;
+}
